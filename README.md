@@ -25,5 +25,13 @@ Use pip install -r requirements.txt to configure the environment
 
 ## Citing:
 If you use the dataset or any trained models in your work, please cite the following article-
-
-[Z. Lin, H. Cai, H. Peng, Y. Fang, P. Pan, H. Li, Y. Yang and J. Yao, Enhancing arsenate removal through interpretable machine learning guiding the modular design of metal–organic frameworks. *Chemical Engineering Journal* 2024.](https://www.sciencedirect.com/science/article/pii/S1385894724065495#f0030)
+```bibtex
+@article{LIN2024155058,
+        title = {Enhancing arsenate removal through interpretable machine learning guiding the modular design of metal–organic frameworks},
+        journal = {Chemical Engineering Journal},
+        volume = {497},
+        pages = {155058},
+        year = {2024},
+        issn = {1385-8947}
+}
+```
