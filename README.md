@@ -27,6 +27,7 @@ Use pip install -r requirements.txt to configure the environment
 If you use the dataset or any trained models in your work, please cite the following article-
 ```bibtex
 @article{LIN2024155058,
+        author = {Lin, Zuhong and Cai, Hui and Peng, Hongjia and Fang, Ying and Pan, Pengxu and Li, Haipu and Yang, Ying and Yao, Jingjing},
         title = {Enhancing arsenate removal through interpretable machine learning guiding the modular design of metal–organic frameworks},
         journal = {Chemical Engineering Journal},
         volume = {497},
