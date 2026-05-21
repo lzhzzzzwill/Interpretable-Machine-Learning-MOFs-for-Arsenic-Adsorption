@@ -5,7 +5,7 @@
 </div>
 
 ## Environment requirements:
-### Python 3.8.19:
+### Python 3.8:
 Molecular fingerprint generation, model training, and interpretation
 ### R 4.2.1
 Visualization
